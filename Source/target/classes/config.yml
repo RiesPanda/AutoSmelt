@@ -1,0 +1,19 @@
+# This is AutoSmelt developed by RiesPanda#3952
+# If you have any errors or want me to add anything, please contact me on Spigot or Discord.
+
+# AUTOSMELT
+# ==========
+
+# This will change wether or not you need a specific pickaxe to autosmelt ores.
+smelt-pick: false
+
+# All of these settings will only change if the smelt-pick is set to true.
+
+# This will change the pickaxe's name.
+pick-name: "&6AutoSmelt Pickaxe"
+
+# This will change the pickaxe's lore.
+pick-lore:
+  - ""
+  - ""
+  - ""

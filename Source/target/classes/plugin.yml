@@ -1,0 +1,11 @@
+name: AutoSmelt
+version: 1.0
+main: tv.twitch.riespanda.autosmelt.AutoSmelt
+api-version: 1.13
+authors: [RiesPanda]
+description: A plugin that auto smelts all ores!
+website: https://twitch.tv/Riespanda
+commands:
+  give:
+    description: If smelt-pick is set to enabled, this will give the player an AutoSmelt pick.
+    usage: /give <player>
